@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Schedule</string>
+    <string name="dia">Día</string>
+    <string name="abierto">Abierto</string>
+    <string name="cerrado">Cerrado</string>
+    <string name="elige_una_imagen">Elige una imagen</string>
+    <string name="escribe_dia_semana">Escribe el día de la semana</string>
+    <string name="hora_de_entrada">Hora de entrada (hh:mm)</string>
+    <string name="hora_de_cierre">Hora de cierre (hh:mm)</string>
+    <string name="guardar">Guardar</string>
+    <string name="description">Descripción</string>
+    <string name="show">Mostrar</string>
+    <string name="promotions">Promociones</string>
+    <string name="select_action">Selecciona una acción:</string>
+    <string name="delete">Eliminar</string>
+    <string name="success_delete">Eliminado exitosamente</string>
+    <string name="do_not_selected">No ha seleccionado ningún archivo</string>
+    <string name="success_process">Proceso exitoso</string>
+    <string name="loading">Cargando</string>
+</resources>
